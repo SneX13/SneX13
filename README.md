@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
+</p>
 
 <!--
 **SneX13/SneX13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
